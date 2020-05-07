@@ -18,12 +18,12 @@ setup(
     author='Tatsuya Abe',
     author_email='abe12@mccc.jp',
 
-    url='https://github.com/AjxLab/PyCrawl',
+    url='https://github.com/AjxLab/wakalinus',
 
     desription='A simple sentiment analysis utility for Japanese.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    keywords='crawling crawler scraping',
+    keywords='setiment nlp japanese',
 
     classifiers=[
         'License :: OSI Approved :: MIT License',

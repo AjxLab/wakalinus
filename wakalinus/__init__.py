@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
-from .pycrawl import *
+from .wakalinus import *
 
 __all__ = ['Analyzer']
+
