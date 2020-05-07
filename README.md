@@ -1,7 +1,7 @@
 wakalinus
 =========
 
-Sentiment Analysis for Japanese
+A simple sentiment analysis utility for Japanese.
 
 
 ## Requirements
