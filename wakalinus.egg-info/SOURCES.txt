@@ -7,3 +7,5 @@ wakalinus.egg-info/SOURCES.txt
 wakalinus.egg-info/dependency_links.txt
 wakalinus.egg-info/requires.txt
 wakalinus.egg-info/top_level.txt
+wakalinus/dic/pn_noun.json
+wakalinus/dic/pn_wago.json

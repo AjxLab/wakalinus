@@ -11,8 +11,9 @@ setup(
     name='wakalinus',
     packages=['wakalinus'],
     install_requires=['janome'],
+    package_data={'wakalinus': ['dic/*.json']},
 
-    version='0.1.0',
+    version='0.1.1',
     license='MIT',
 
     author='Tatsuya Abe',
